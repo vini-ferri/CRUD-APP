@@ -86,7 +86,7 @@ export default {
     }
   },
   mounted () {
-    this.getusers()
+    this.getUsers()
   },
   components: {
     Message
