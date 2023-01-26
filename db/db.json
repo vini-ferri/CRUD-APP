@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "nome": "Vinícius Souza Ferri",
+      "telefone": "000000000",
+      "email": "vinicius@teste.com",
+      "setor": "DEV",
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "nome": "Fulado da Silva",
+      "telefone": "111111111",
+      "email": "fulano@teste.com",
+      "setor": "Financeiro",
+      "status": "Solicitado",
+      "id": 2
+    }
+  ]
+}
